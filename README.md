@@ -17,3 +17,5 @@ Au plaisir de se retrouver pour des projets mobiles ou dans notre formation :
 Nicolas Lehovetzki
 
 n.lehovetzki@gmail.com
+
+Edit: Nous avons ajouté un document pdf complet réalisé par Johan Bartoli
